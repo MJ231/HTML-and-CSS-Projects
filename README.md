@@ -32,3 +32,9 @@ This Page Is An Example Home Page Of A Man's Bestfriend. It Was Styled Using CSS
 [Rollover Site](https://github.com/MJ231/HTML-and-CSS-Projects/blob/182b21eb8137881478dc0e70a11927b5e70bc16c/Project/basic_css_demo_1.html)
 
 This Page Is An Example Home Page Of Smiley Faces Changing Their Appearance Using CSS.
+
+<h3>Basic HTML</h3>
+
+[Basic HTML](https://github.com/MJ231/HTML-and-CSS-Projects/blob/82acbb8bcf344cee3d5328f7734db09c14b68b9e/Basic_HTML_and_Javascript_1/Basic_HTML_1.html)
+
+This Page Demonstrates A Basic HTML File Displaying A Hidden Message When You Open It Up In Your Browser. 
