@@ -14,3 +14,9 @@ This Page Is An Example Home Page For A Space Travel Company. It's Styled Using 
 [Movie Theatre Site](https://github.com/MJ231/HTML-and-CSS-Projects/blob/0a3ddbe7cbe6f1edb989ddea32cf5dc76e46138b/Bootstrap4_Project/academy_cinemas.html)
 
 This Page Is An Example Home Page For A Movie Theatre That Is Styled Using Bootstrap4. It Contains Many Bootstrap Components Including But Not Limited To A Navbar, Jumbotron, Form, Cards, & Dropdowns.
+
+<h3>Power Ranger Site</h3>
+
+[Power Ranger Site](https://github.com/MJ231/HTML-and-CSS-Projects/blob/0c0e40146b80c08e9bf5ff339c088fd65aeeaaee/One-Page%20Website/one_page_website.html)
+
+This Page Is An Example Home Page For A Power Ranger Convention Site Using CSS. It's Only An Example, Which Could Be Worked On Some More.
