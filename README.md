@@ -25,4 +25,4 @@ This Page Is An Example Home Page For A Power Ranger Convention Site Using CSS. 
 
 [Dog Site](https://github.com/MJ231/HTML-and-CSS-Projects/blob/62daa14a8f56246ff6307e3431b00c4b4564cdc6/Assignment.html)
 
-This Page Is An Example Home Page Of A Man's Bestfriend. It Was Style Using CSS & Also Was Embedded With A Video.
+This Page Is An Example Home Page Of A Man's Bestfriend. It Was Styled Using CSS & Also Was Embedded With A Video.
