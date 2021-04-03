@@ -3,7 +3,7 @@ Coding Projects And Coursework Will Be Stored In This Repository.
 
 <h2>PROJECTS</h2>
 
-[Space Station Site](C:/Users/doubl/Documents/GitHub/HTML-and-CSS-Projects/Project/index.html)
+<a href="file:///C:/Users/doubl/Documents/GitHub/HTML-and-CSS-Projects/Project/index.html" target="_blank">Space Station Site</a>
 
 [Movie Theatre Site](file:///C:/Users/doubl/Documents/GitHub/HTML-and-CSS-Projects/Bootstrap4_Project/academy_cinemas.html)
 
