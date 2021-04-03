@@ -20,3 +20,9 @@ This Page Is An Example Home Page For A Movie Theatre That Is Styled Using Boots
 [Power Ranger Site](https://github.com/MJ231/HTML-and-CSS-Projects/blob/0c0e40146b80c08e9bf5ff339c088fd65aeeaaee/One-Page%20Website/one_page_website.html)
 
 This Page Is An Example Home Page For A Power Ranger Convention Site Using CSS. It's Only An Example, Which Could Be Worked On Some More.
+
+<h3>Dog Site</h3>
+
+[Dog Site]()
+
+This Page Is An Example Home Page Of A Man's Bestfriend. It Was Style Using CSS & Also Was Embedded With A Video.
