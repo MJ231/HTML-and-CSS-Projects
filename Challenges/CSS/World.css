@@ -1,0 +1,15 @@
+/* Set the background color of body to red */
+body {
+    background-color: red;
+  }
+  
+  /* On screens that are 900px or less, set the background color to blue */
+  @media screen and (max-width: 900px) {
+    body {
+      background-color: blue;
+    }
+  }
+
+  @media not|only mediatype and (expressions) {
+    CSS-Code;
+  }
