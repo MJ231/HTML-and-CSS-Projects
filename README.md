@@ -3,10 +3,6 @@ Coding Projects And Coursework Will Be Stored In This Repository.
 
 <h2>PROJECTS</h2>
 
-<a href="file:///C:/Users/doubl/Documents/GitHub/HTML-and-CSS-Projects/Project/index.html" target="_blank">Space Station Site</a>
-
-[Movie Theatre Site](file:///C:/Users/doubl/Documents/GitHub/HTML-and-CSS-Projects/Bootstrap4_Project/academy_cinemas.html)
-
 <h3>Space Station Site</h3>
 
 This Page Is An Example Home Page For A Space Travel Company. It's Styled Using CSS, & Contains A Navbar, Image Containers, & A Form.
