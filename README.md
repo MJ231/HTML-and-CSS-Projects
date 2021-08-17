@@ -1,5 +1,5 @@
 # HTML-and-CSS-Projects
-Coding Projects And Coursework Will Be Stored In This Repository.
+Coding Projects And Coursework Worked On.
 
 <h2>PROJECTS</h2>
 
