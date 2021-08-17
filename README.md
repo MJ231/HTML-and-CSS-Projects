@@ -1,5 +1,5 @@
 # HTML-and-CSS-Projects
-Coding Projects And Coursework Worked On.
+Coding Projects And Coursework Worked On Down Below.
 
 <h2>PROJECTS</h2>
 
